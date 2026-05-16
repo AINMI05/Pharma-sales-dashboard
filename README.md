@@ -13,10 +13,11 @@ An interactive Power BI dashboard analyzing pharmaceutical drug sales across 8 d
 
 ## 🔍 Key Insights
 - N02BE (Paracetamol) accounts for nearly 50% of all drug sales
-- Sales peaked around 2016-2017
-- Saturday and Sunday show slightly lower sales
-- N05C (Sleeping pills) has near-zero sales — prescription only drug
-
+- N05B (Anxiolytics) is the 2nd highest selling drug category
+- N05C (Sleeping pills) has near-zero sales
+- Sales peaked around 2017-2018 then declined slightly
+- Saturday shows highest sales
+  
 ## 🛠️ Tools Used
 - Microsoft Power BI Desktop
 - Power Query (for data transformation)
